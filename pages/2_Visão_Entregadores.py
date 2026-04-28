@@ -99,7 +99,7 @@ st.header('Marketplace - Visão Entregadores')
 
 image_path = 'logo.png'
 image = Image.open(image_path)
-st.sidebar.image(image, width=500)
+st.sidebar.image(image, width=250)
 
 st.sidebar.markdown("# Cury Company")
 st.sidebar.markdown('## Fastest Delivery in Town')
